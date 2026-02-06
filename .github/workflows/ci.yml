@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  AWS_REGION: us-east-3
+  AWS_REGION: us-east-2
   ECR_REGISTRY: 605863933397.dkr.ecr.us-east-2.amazonaws.com
   ECR_REPOSITORY: user03-repo
   IMAGE_TAG: latest
